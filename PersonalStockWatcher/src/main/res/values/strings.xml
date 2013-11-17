@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stocks</string>
+    <string name="title_section1">eBay</string>
+    <string name="title_section2">Bank of India</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
